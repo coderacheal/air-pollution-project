@@ -4,7 +4,7 @@
 ![image](https://github.com/coderacheal/Sage/assets/97846040/fd5d9c27-978a-4fb7-a705-6d9136c21337)
 
 
-# 📗 Table of Contents
+# 📗 Table of Content
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Sage\] ](#-sage-)
@@ -27,7 +27,7 @@
   - [📝 License ](#-license-)
 
 # 📖 [Sage] <a name="about-project"></a>
-Welcome to **Sage**, a real-time platform providing the latest data on cryptocurrency prices and market metrics. With Sage, you can stay up-to-date with the ever-changing crypto landscape and visualize the trends for each coin effortlessly.
+**Sage**, is a real-time platform providing the latest data on cryptocurrency prices and market metrics. With Sage, you can stay up-to-date with the ever-changing crypto landscape and visualize the trends for each coin effortlessly.
 
 ## 🛠 Built With <a name="built-with"></a>
 
